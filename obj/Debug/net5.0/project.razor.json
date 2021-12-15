@@ -15639,8 +15639,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\NVN123\\Views\\NVN\\Details.cshtml",
+      "TargetPath": "Views\\NVN\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\NVN123\\Views\\NVN\\Create.cshtml",
+      "TargetPath": "Views\\NVN\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\NVN123\\Views\\NVN\\Edit.cshtml",
+      "TargetPath": "Views\\NVN\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\NVN123\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\NVN123\\Views\\NVN\\Index.cshtml",
+      "TargetPath": "Views\\NVN\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\NVN123\\Views\\NVN\\Delete.cshtml",
+      "TargetPath": "Views\\NVN\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {

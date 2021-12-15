@@ -13,4 +13,6 @@ using NVN123.Models;
         }
 
         public DbSet<NVN123.Models.Person> Person { get; set; }
+
+        public DbSet<NVN123.Models.NVN> NVN { get; set; }
     }
