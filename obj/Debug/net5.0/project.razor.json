@@ -15619,6 +15619,11 @@
   "RootNamespace": "NVN123",
   "Documents": [
     {
+      "FilePath": "c:\\NVN123\\Views\\Persons\\Index.cshtml",
+      "TargetPath": "Views\\Persons\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\NVN123\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -15649,8 +15654,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\NVN123\\Views\\Persons\\Details.cshtml",
+      "TargetPath": "Views\\Persons\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\NVN123\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\NVN123\\Views\\Persons\\Delete.cshtml",
+      "TargetPath": "Views\\Persons\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\NVN123\\Views\\Persons\\Edit.cshtml",
+      "TargetPath": "Views\\Persons\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\NVN123\\Views\\Persons\\Create.cshtml",
+      "TargetPath": "Views\\Persons\\Create.cshtml",
       "FileKind": "mvc"
     }
   ],
